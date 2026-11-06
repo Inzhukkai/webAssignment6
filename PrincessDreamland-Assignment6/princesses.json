@@ -1,0 +1,29 @@
+[
+  {
+    "key": "belle",
+    "name": "Belle",
+    "category": "classic",
+    "image": "https://i.pinimg.com/736x/88/1c/98/881c980440ca305655e9b420520ce2a6.jpg",
+    "alt": "Quiet enchanted forest",
+    "text": "A curious book lover who sees beauty beyond appearances.",
+    "story": "Belle shows that true beauty is found in kindness, curiosity, and a brave heart."
+  },
+  {
+    "key": "moana",
+    "name": "Moana",
+    "category": "brave",
+    "image": "https://i.pinimg.com/originals/07/9b/8f/079b8fa5990ba8324f31e31f37290aa4.jpg",
+    "alt": "Tropical ocean beach",
+    "text": "A fearless voyager who follows the call of the sea.",
+    "story": "Moana sails across the ocean to save her people and discovers who she truly is."
+  },
+  {
+    "key": "ariel",
+    "name": "Ariel",
+    "category": "magical",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.s51XfpBF3GbhimKikVNpewHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "alt": "Calm magical lake",
+    "text": "An adventurous mermaid who dreams of a world above the waves.",
+    "story": "Ariel follows her curiosity and teaches us to chase our dreams, even when they seem far away."
+  }
+]
